@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Web Developer with a str
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on a self-project called **Lexdata**.
-- 🌱 I’m currently learning more about [New Technologies or Skills You're Exploring].
+- 🌱 I’m currently learning more about New Technologies
 - 👯 I’m looking to collaborate on React projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, and WordPress.
 - 📫 How to reach me: [azashikdev@gmail.com](mailto:azashikdev@gmail.com)
@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a passionate Frontend Web Developer with a str
 - **CSS Frameworks**:
   - [Bootstrap](https://getbootstrap.com/)
   - [Tailwind CSS](https://tailwindcss.com/)
-  - [Others]
+  - etc
 
 - **JavaScript Frameworks/Libraries**:
   - React
-  - [Other JavaScript Frameworks or Libraries You Know]
+  - Learning....
 
 - **Content Management Systems**:
   - WordPress
@@ -40,8 +40,6 @@ Feel free to check out my repositories for more examples of my work!
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Portfolio]
+- [FaceBook](https://www.facebook.com/Azashikishere/)
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or just want to connect.
